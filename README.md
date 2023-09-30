@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a CS student who's all about software dev and AI.<br>I love crafting code and diving into the world of artificial intelligence.<br>Join me on my journey to explore the endless possibilities of tech!
+I'm a CS student who's all about software dev.<br>Currently diving into the world of AI and Cloud Computing.<br>Join me on my journey to explore the endless possibilities of tech!
 
 
 ## 🌐 Socials:
