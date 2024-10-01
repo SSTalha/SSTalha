@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software dev.<br>Currently diving into the world of AI and LLMs.<br>Join me on my journey to explore the endless possibilities of tech!
+I'm a software dev.<br>Currently diving into the world of AI and Backend.<br>Join me on my journey to explore the endless possibilities of tech!
 
 
 ## 🌐 Socials:
